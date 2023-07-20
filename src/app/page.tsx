@@ -1,6 +1,6 @@
 export default function Home() {
   return (
-    <main className="h-screen w-full m-20 bg-gray-100">
+    <main className="h-screen w-full m-20">
       <div className="flex flex-col items-start gap-4 m-8">
         <h1 className="font-bold text-[#55b0b1] text-xl">Join our community</h1>
         <p className="text-green-400 font-bold">
