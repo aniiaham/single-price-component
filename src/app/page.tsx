@@ -33,7 +33,7 @@ export default function Home() {
         </div>
         <div className="bg-[#68bcbd] text-gray-100 p-6 flex flex-col gap-2">
           <p className="font-semibold text-lg">Why Us?</p>
-          <div className="text-gray-200">
+          <div className="text-gray-100">
             <p>Tutorials by industry experts</p>
             <p>Peer&expert code review</p>
             <p>Coding exercises</p>
